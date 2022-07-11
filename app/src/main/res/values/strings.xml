@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Login Activity 2.0</string>
+    <string name="facebook_app_id">425906246124867</string>
+    <string name="fb_login_protocol_scheme">fb425906246124867</string>
+    <string name="facebook_client_token">6d0eaaa8cfd7f1a76afa572a0c445b23</string>
+</resources>
